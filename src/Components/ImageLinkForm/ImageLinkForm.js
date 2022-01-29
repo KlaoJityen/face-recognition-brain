@@ -1,4 +1,5 @@
 import React from 'react';
+import Tilt from 'react-tilt'
 import './ImageLinkForm.css';
 
 const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
@@ -8,6 +9,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
         {'This Magic Brain will detect faces in your pictures. Git it a try.'}
       </p>
       <div className='center'>
+      <Tilt className="Tilt br2 shadow-2" options={{ max: 55 }} >
         <div className='form center pa4 br3 shadow-5'>
           <input className='f4 pa2 w-70 center' type='tex' onChange={onInputChange}/>
           <button
@@ -15,6 +17,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
             onClick={onButtonSubmit}
           >Detect</button>
         </div>
+        </Tilt>
       </div>
     </div>
   );
