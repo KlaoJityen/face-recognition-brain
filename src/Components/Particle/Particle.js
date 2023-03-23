@@ -6,7 +6,7 @@ const particlesOptions = {
       color: "#000000"
     },
     interactivity: {
-      detect_on: "window",
+      detect_on: "ios",
       events: {
         onHover: {
           enable: true,
