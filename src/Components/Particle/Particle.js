@@ -19,7 +19,7 @@ const particlesOptions = {
           distance: 200,
           duration: 2,
           opacity: 1,
-          size: 30,
+          size: 40,
           speed: 3,
           color: {
             value: ["#5bc0eb", "#fde74c", "#9bc53d", "#e55934", "#fa7921"]
