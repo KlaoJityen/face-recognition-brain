@@ -67,7 +67,7 @@ const particlesOptions = {
         value: 15
       }
     },
-    retina_detect: true
+    retina_detect: false
   }
 
 const Particle = () => {
