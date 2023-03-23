@@ -22,7 +22,7 @@ const particlesOptions = {
           size: 40,
           speed: 3,
           color: {
-            value: ["#5bc0eb", "#fde74c", "#9bc53d", "#e55934", "#fa7921"]
+            value: ["#5bc0eb", "#fde74c", "#9bc53d", "#e55934", "#fa7921", "jajaja"]
           }
         },
         connect: {
