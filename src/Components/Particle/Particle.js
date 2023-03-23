@@ -57,7 +57,7 @@ const particlesOptions = {
         value: 0
       },
       shape: {
-        type: "circle"
+        type: "circla"
       },
       size: {
         random: {
