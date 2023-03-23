@@ -62,7 +62,7 @@ const particlesOptions = {
       size: {
         random: {
           enable: true,
-          minimumValue: 10
+          minimumValue: 15
         },
         value: 15
       }
