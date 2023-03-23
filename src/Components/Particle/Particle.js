@@ -10,7 +10,7 @@ const particlesOptions = {
       events: {
         onHover: {
           enable: true,
-          mode: ["bubble", "connect"]
+          mode: ["bubbly", "connect"]
         },
         resize: true
       },
