@@ -16,7 +16,7 @@ const particlesOptions = {
       },
       modes: {
         bubble: {
-          distance: 200,
+          distance: 500,
           duration: 2,
           opacity: 1,
           size: 30,
