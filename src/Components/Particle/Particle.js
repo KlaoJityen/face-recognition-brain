@@ -64,7 +64,7 @@ const particlesOptions = {
           enable: true,
           minimumValue: 15
         },
-        value: 15
+        value: 20
       }
     },
     retina_detect: false
