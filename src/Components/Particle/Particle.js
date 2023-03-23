@@ -16,13 +16,13 @@ const particlesOptions = {
       },
       modes: {
         bubble: {
-          distance: 200,
+          distance: 500,
           duration: 2,
           opacity: 1,
           size: 40,
           speed: 3,
           color: {
-            value: ["#5bc0eb", "#fde74c", "#9bc53d", "#e55934", "#fa7921", "jajaja"]
+            value: ["#5bc0eb", "#fde74c", "#9bc53d", "#e55934", "#fa7921", "123456"]
           }
         },
         connect: {
